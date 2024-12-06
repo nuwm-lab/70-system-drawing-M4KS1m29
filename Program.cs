@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Drawing;
 using System.Windows.Forms;
 using static System.Net.Mime.MediaTypeNames;
@@ -70,6 +70,7 @@ public class GraphForm : Form
             prevPoint = currentPoint;
         }
     }
+
     [STAThread]
     public static void Main()
     {
