@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ohXdymOS)
 # Методичні вказівки до виконання лабораторної роботи
 ## Тема: Простір імен System.Drawing
 ## Мета: Навчитись використовувати класи з простору імен System.Drawing для рисування на формі
@@ -17,7 +18,7 @@
 9.	Оформити звіт.
 
    
-## Варіанти завдань для самостійної роботи
+## Варіанти завдань для самостійної роботи:
 
 1. y = (x + cos(2x)) / (x + 2), 0.2 ≤ x ≤ 10, Δx = 0.8
 2. y = tg(0.5x) / (x^3 + 7.5), 0.1 ≤ x ≤ 1.2, Δx = 0.1
