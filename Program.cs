@@ -70,7 +70,6 @@ public class GraphForm : Form
             prevPoint = currentPoint;
         }
     }
-
     [STAThread]
     public static void Main()
     {
